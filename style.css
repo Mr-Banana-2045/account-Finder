@@ -1,0 +1,84 @@
+body{
+    background: linear-gradient(30deg, #F700FF, #FF0007, #0016FF);
+    display:flex;
+justify-content:center;
+align-items:center;
+}
+.tack{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background: black;
+    font-family: "Walter Turncoat", cursive;
+    }
+    .txt{
+        color:red;
+        }
+    .tot{
+        text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    border: 5px solid black;
+        }
+        .pop{
+            text-align: center;
+            background: black;
+            border-radius: 20px 20px 20px 20px;
+            }
+.back{
+    text-align: center;
+    width: 380px;
+    align-items: center;
+    background: none;
+    border-radius: 20px;
+    }
+    .imge{
+        border: 3px solid white;
+        border-radius: 20px;
+        height: 180px;
+        width: 200px;
+        }
+        .uop{
+            border-radius: 0px 0px 20px 20px;
+            font-size: 10px;
+            background: #000000;
+            font-family: "Walter Turncoat", cursive;
+            }
+            button{
+                border: 10px solid white;
+                width: 90px;
+                height: 25px;
+                background: #000;
+                color: white;
+                border-radius: 20px;
+                margin:5px;
+                font-size: 10px;
+                font-weight: 800;
+                outline:none;
+                border: none;
+                }
+                .heart{
+                    color: black;
+                    }
+                    .heart:hover{
+                        color: red;
+                        }
+                input{
+                    outline: none;
+                    border: none;
+                    margin:5px;
+                    background: black;
+                    border-bottom: 2px solid white;
+                    font-size: 13px;
+                    color: white;
+                    }
+.console-container {
+font-family: "Walter Turncoat", cursive;
+font-size: 20px;
+text-align: center;
+display: block;
+margin: auto;
+}
+.console-underscore {
+display: inline-block;
+position: relative;
+}
